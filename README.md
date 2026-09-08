@@ -55,6 +55,8 @@ This creates a continuous scan, awaiting a connection with the server.
 
 Upon connection with the client, the left side should display machines that are connected to your server in the format IP+Port.
 
+<p align="center"><img width="894" height="475" alt="image" src="https://github.com/user-attachments/assets/8effe71d-4333-4fec-a357-6d8769abb8c1" /></p>
+
 In the center, it displays the enumeration methods possible for that system. For Windows 3, pre-defined enumeration methods have been created, and for Linux there are 4.
 
 On the left, it displays the communication from the client to the server. Displaying the outputs, including open ports and currently running services.
