@@ -1,3 +1,4 @@
+<img width="770" height="181" alt="2" src="https://github.com/user-attachments/assets/776bad46-0db4-4d2a-b9c7-00aa4a90c0e9" />
 
 # Command and Control Server
 
@@ -23,6 +24,8 @@ To use this software you will need some required python modules, to quickly inst
 ```
 pip3 install -r requirements.txt
 ```
+
+<img width="770" height="181" alt="2" src="https://github.com/user-attachments/assets/fcf77de2-1772-48a1-82f6-923bfafb6068" />
 
 ## Running the tests
 
