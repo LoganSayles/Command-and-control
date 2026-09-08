@@ -5,9 +5,11 @@ from ctypes import windll
 import customtkinter as ctk
 from CTkListbox import CTkListbox
 import time
+import platform
 
-windll.shcore.SetProcessDpiAwareness(1)  # Setting Render Scale of the UI
-
+if platform.system() == "Windows":
+    from ctypes import windll
+    windll.shcore.SetProcessDpiAwareness(1) # Setting Render Scale of the UI
 
 class PyServer:  # Initializing pyserver
     """
