@@ -55,8 +55,6 @@ This creates a continuous scan, awaiting a connection with the server.
 
 Upon connection with the client, the left side should display machines that are connected to your server in the format IP+Port.
 
-<p align="center"><img width="894" height="475" alt="image" src="https://github.com/user-attachments/assets/8effe71d-4333-4fec-a357-6d8769abb8c1" /></p>
-
 In the center, it displays the enumeration methods possible for that system. For Windows 3, pre-defined enumeration methods have been created, and for Linux there are 4.
 
 On the left, it displays the communication from the client to the server. Displaying the outputs, including open ports and currently running services.
@@ -68,6 +66,8 @@ To begin using the application, click the desired machine to enumerate informati
 Then select what methods you would like to employ.
 
 Finally, click "SEND"; this will send the relevant enumeration methods you would like to employ on the client machine, and this will be communicated back via the right-hand side menu.
+
+<p align="center"><img width="800" height="400" alt="4" src="https://github.com/user-attachments/assets/68fe03c2-e73b-43bf-8e03-d07c05f1f942" /></p>
 
 ## Methods
 
