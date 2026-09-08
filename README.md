@@ -8,10 +8,10 @@ This tool is a proof of concept, based upon the idea of command on control sever
 
 ## Getting Started
 
-Start by cloning this GitHub repository. To do this, either download the zip file or if you're using a CLI enter the following command:
+Start by cloning this GitHub repository. To do this, either download the zip file or, if you're using a CLI, enter the following command:
 
 ```bash
-git clone https://github.com/LoganSayles/Command-and-control.git
+git clone https://github.com/LoganSayles/LSB-Steganography.git
 ```
 <p align="center"><img width="770" height="181" alt="1" src="https://github.com/user-attachments/assets/a00083ad-fb29-4c1e-b799-da1782fd7a9b" /></p>
 
