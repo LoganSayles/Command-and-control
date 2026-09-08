@@ -14,7 +14,7 @@ Start by cloning this github repository. To do this either download the zip file
 ```bash
 git clone https://github.com/LoganSayles/Command-and-control.git
 ```
-<img width="790" height="664" alt="1" src="https://github.com/user-attachments/assets/62471c97-7337-4ba2-b6f1-c2f3ab81bf1b" />
+<img width="770" height="181" alt="1" src="https://github.com/user-attachments/assets/a00083ad-fb29-4c1e-b799-da1782fd7a9b" />
 
 ### Prerequisites
 
