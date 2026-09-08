@@ -5,6 +5,8 @@ This application was retrieved via old university work and is a re-creation of s
 
 This tool, is a proof of concept, based upon the idea of command on control severs. Incorporating up to 4 enumeration methods across 2 seperate operating systems, this tool aims to extract information from a client system.
 
+** For the sake of testing, this application only works intentionally on the local system and the server will be initialised on localhost port 12345**
+
 ## Getting Started
 
 Start by cloning this github repository. To do this either download the zip file or if you're using a CLI enter the following command:
