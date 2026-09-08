@@ -23,7 +23,7 @@ To use this software you will need some required python modules, to quickly inst
 pip3 install -r requirements.txt
 ```
 
-<img width="770" height="181" alt="2" src="https://github.com/user-attachments/assets/fcf77de2-1772-48a1-82f6-923bfafb6068" />
+<p align="center"><img width="770" height="181" alt="2" src="https://github.com/user-attachments/assets/fcf77de2-1772-48a1-82f6-923bfafb6068" /></p>
 
 ## Running the tests
 
