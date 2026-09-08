@@ -81,9 +81,9 @@ Finally, click "SEND"; this will send the relevant enumeration methods you would
 
 **users** ~ This function enumerates the user accounts visible from the current user on that system.
 
-**pids** ~ This *windows specific function* enumerates all processes on the current system.
+**pids** ~ This ***Windows-specific function*** enumerates all processes on the current system.
 
-**suids** ~ This *Linux-specific function* enumerates all SUID Binaries viewable on the current system.
+**suids** ~ This ***Linux-specific function*** enumerates all SUID Binaries viewable on the current system.
 
 **ports** ~ This function enumerates all the open ports on the current system.
 
