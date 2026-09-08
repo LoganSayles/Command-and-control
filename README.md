@@ -13,7 +13,7 @@ Start by cloning this github repository. To do this either download the zip file
 ```bash
 git clone https://github.com/LoganSayles/Command-and-control.git
 ```
-<img width="770" height="181" alt="1" src="https://github.com/user-attachments/assets/a00083ad-fb29-4c1e-b799-da1782fd7a9b" />
+<p align="center"><img width="770" height="181" alt="1" src="https://github.com/user-attachments/assets/a00083ad-fb29-4c1e-b799-da1782fd7a9b" /></p>
 
 ### Prerequisites
 
