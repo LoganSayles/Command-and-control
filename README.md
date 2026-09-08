@@ -33,6 +33,8 @@ To run the tests that come with this software, run the following command:
 python3 unit-tests.py
 ```
 
+<p align="center"><img width="800" height="181" alt="3" src="https://github.com/user-attachments/assets/9c9bacf7-9bdf-4e71-bea4-03a72bef82ef" /></p>
+
 ## Deployment
 
 To begin, initialise the server using:
