@@ -45,7 +45,7 @@ python3 client.py
 
 This creates a continuous scan, awaiting a connection with the server.
 
-### UI
+## UI
 
 Upon connection with the client, the left side should display machines that are connected to your server in the format IP+Port.
 
@@ -53,7 +53,7 @@ In the center, it displays enumeration methods are possible for that system. For
 
 On the left, it display the communication from the client to the server. Displaying the outputs including open ports and currently running services.
 
-### Usage
+## Usage
 
 To begin using the application, click the desired machine to enumerate information from.
 
@@ -61,7 +61,7 @@ Then select what methods you would like to employ.
 
 Finally, click "SEND", this will send the relevent enumeration methods you would like to employ on the client machine and this will be communicated back via the right hand side menu.
 
-### Methods
+## Methods
 
 **users** ~ This function enumerates the user account visibile from the current user on that system.
 
