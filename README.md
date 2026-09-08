@@ -1,5 +1,3 @@
-<img width="770" height="181" alt="2" src="https://github.com/user-attachments/assets/776bad46-0db4-4d2a-b9c7-00aa4a90c0e9" />
-
 # Command and Control Server
 
 This application was retrieved via old university work and is a re-creation of such work for the point of demonstrating what I had completed during my time in education.
